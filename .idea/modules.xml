@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/payatuma.iml" filepath="$PROJECT_DIR$/.idea/payatuma.iml" />
+      <module fileurl="file://E:/PycharmProjects/payatuma/.idea/payatuma.iml" filepath="E:/PycharmProjects/payatuma/.idea/payatuma.iml" />
     </modules>
   </component>
 </project>

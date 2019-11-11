@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 __title__  = "payatuma"
 __auther__ = "Furkan Sari and Ercan Sezdi"
-__verios__ = "0.2"
+__version__ = "0.2"
 __email__  = "furkan210561@gmail.com and ercansezdizero@gmail.com"
 
 import sqlite3
