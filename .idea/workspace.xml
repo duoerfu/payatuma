@@ -15,10 +15,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TQcgclJXxkXrERg7WULejAohpU" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -32,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.a">
+  <component name="RunManager" selected="Python.payatuma">
     <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="payatuma" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,9 +101,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.a" />
         <item itemvalue="Python.payatuma" />
         <item itemvalue="Python.payatuma - Kopya" />
+        <item itemvalue="Python.a" />
       </list>
     </recent_temporary>
   </component>
@@ -116,5 +119,18 @@
       <updated>1573395871208</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

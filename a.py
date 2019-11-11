@@ -9,18 +9,23 @@ class sinif():
         self.figure = pyplot.figure(figsize=(16,8))
         pyplot.xlim(0,500)
         self.i=1
+        self.xll = 0
+        self.yll = 500
         self.line, = pyplot.plot(self.x_data, self.y_data, '-')
         self.animation = FuncAnimation(self.figure, self.update, interval=200)
         pyplot.show()
 
     def update(self, frame):
         print(self.i)
-        self.i+=1
+        self.i += 1
         self.x_data.append(randrange(1*(self.i*2),(10*(self.i*2))))
         self.y_data.append(randrange(0, 100))
         self.line.set_data(self.x_data, self.y_data)
         self.figure.gca().relim()
         self.figure.gca().autoscale_view()
+        pyplot.xlim(self.xll,self.yll)
+        self.xll += 10
+        self.yll += 10
         return self.line,
 
 
