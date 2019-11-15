@@ -18,3 +18,19 @@ class payatuma:
                 return randint(data - limit , data + limit)
         else:
             return randint(0,500)
+    def cheater_data(self,level,max = 32):
+        gain = 0
+        pwm = 0
+
+        for i in range(0,level):
+            gain += (2 ** i) * 1000
+
+            print("Gün {} :".format(i + 1))
+            if i == 0:
+                print("Toplam Kazanç : {}".format(gain))
+            else:
+                pwm += 2 ** (i - 1)
+                print("Toplam Kazanç : {}".format(gain - pwm * 120))
+
+
+
