@@ -20,6 +20,7 @@
   </component>
   <component name="ProjectId" id="1Tejs1r8tb1x3oSfuuYUlLztULL" />
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -34,8 +35,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.payatuma_v0.2">
-    <configuration name="payatuma_v0.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.binary_system_v.0.0.2">
+    <configuration name="binary_system_v0.0.1" type="PythonConfigurationType" factoryName="Python">
       <module name="payatuma" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/payatuma_v0.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_system_v0.0.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -56,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="payatuma_v0.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="binary_system_v.0.0.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="payatuma" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/payatuma_v0.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_system_v.0.0.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,14 +78,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.payatuma_v0.1" />
-      <item itemvalue="Python.payatuma_v0.2" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.payatuma_v0.2" />
-        <item itemvalue="Python.payatuma_v0.1" />
+        <item itemvalue="Python.binary_system_v.0.0.2" />
       </list>
     </recent_temporary>
   </component>
