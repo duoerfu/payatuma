@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 __title__ = "binary_system"
 __author__ = "Furkan Sari and Ercan Sezdi"
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 __email__ = "furkansari@mavirane.com and ercansezdizero@gmail.com"
 
 from math import pow
